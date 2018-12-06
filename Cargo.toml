@@ -1,0 +1,6 @@
+[package]
+name = "az-rust"
+version = "0.1.0"
+authors = ["menonu"]
+
+[dependencies]
